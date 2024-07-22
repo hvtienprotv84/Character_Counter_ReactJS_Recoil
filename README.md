@@ -14,6 +14,8 @@
 # RUN 
 - `npm install`
 - `npm start`
-**Hoặc**
+
+### **Hoặc**
+
 - `yarn install` hoặc `yarn`
 - `yarn start`
